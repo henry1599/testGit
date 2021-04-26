@@ -1,0 +1,13 @@
+D:\C#_Program\Quyen_Ngo_Assignment_1\bin\Debug\netcoreapp3.1\Quyen_Ngo_Assignment_1.exe
+D:\C#_Program\Quyen_Ngo_Assignment_1\bin\Debug\netcoreapp3.1\Quyen_Ngo_Assignment_1.deps.json
+D:\C#_Program\Quyen_Ngo_Assignment_1\bin\Debug\netcoreapp3.1\Quyen_Ngo_Assignment_1.runtimeconfig.json
+D:\C#_Program\Quyen_Ngo_Assignment_1\bin\Debug\netcoreapp3.1\Quyen_Ngo_Assignment_1.runtimeconfig.dev.json
+D:\C#_Program\Quyen_Ngo_Assignment_1\bin\Debug\netcoreapp3.1\Quyen_Ngo_Assignment_1.dll
+D:\C#_Program\Quyen_Ngo_Assignment_1\bin\Debug\netcoreapp3.1\Quyen_Ngo_Assignment_1.pdb
+D:\C#_Program\Quyen_Ngo_Assignment_1\obj\Debug\netcoreapp3.1\Quyen_Ngo_Assignment_1.csprojAssemblyReference.cache
+D:\C#_Program\Quyen_Ngo_Assignment_1\obj\Debug\netcoreapp3.1\Quyen_Ngo_Assignment_1.csproj.CoreCompileInputs.cache
+D:\C#_Program\Quyen_Ngo_Assignment_1\obj\Debug\netcoreapp3.1\Quyen_Ngo_Assignment_1.AssemblyInfoInputs.cache
+D:\C#_Program\Quyen_Ngo_Assignment_1\obj\Debug\netcoreapp3.1\Quyen_Ngo_Assignment_1.AssemblyInfo.cs
+D:\C#_Program\Quyen_Ngo_Assignment_1\obj\Debug\netcoreapp3.1\Quyen_Ngo_Assignment_1.dll
+D:\C#_Program\Quyen_Ngo_Assignment_1\obj\Debug\netcoreapp3.1\Quyen_Ngo_Assignment_1.pdb
+D:\C#_Program\Quyen_Ngo_Assignment_1\obj\Debug\netcoreapp3.1\Quyen_Ngo_Assignment_1.genruntimeconfig.cache

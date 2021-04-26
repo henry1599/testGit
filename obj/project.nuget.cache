@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TnCPmY7ppuHNNRBp1tiJUbuzf9HzqS6J/eqWbxQiC0xC3F7z02vNUrHN+qsX6GscYas4k/DQmItGF4iXkHaykQ==",
+  "success": true,
+  "projectFilePath": "D:\\C#_Program\\Quyen_Ngo_Assignment_1\\Quyen_Ngo_Assignment_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
